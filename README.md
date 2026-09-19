@@ -1,6 +1,6 @@
 # Terraform AWS Multi-Environment Infrastructure
 
-![Architecture](./Screenshot%202026-09-19%20123250_edited.png)
+![Architecture](https://raw.githubusercontent.com/abhishekmishra9768/terraform-aws-multi-env/main/Screenshot%202026-09-19%20123250_edited.png)
 
 ## Overview
 
