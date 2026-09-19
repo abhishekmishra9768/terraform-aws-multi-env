@@ -127,6 +127,9 @@ terraform-aws-multi-env-remote-backend-2026/
 | Security group | 1 | 1 | 1 |
 | Key pair | 1 | 1 | 1 |
 
+<img width="1385" height="637" alt="AdobeExpressPhotos_2b67cd5db931413784972e5dff93af5b_CopyEdited" src="https://github.com/user-attachments/assets/3b8d9b38-fe14-4608-9869-5a6ca05e66c3" />
+
+
 ---
 
 ## Notes
