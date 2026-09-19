@@ -1,0 +1,17 @@
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
+
+# Terraform directory
+.terraform/
+
+# Backup files
+*.bak
+
+# Private keys
+terra-auto-server-key
+terra-auto-server-key.pub
+
+# Terraform lock file (optional - some teams commit this)
+# .terraform.lock.hcl
